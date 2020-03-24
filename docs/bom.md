@@ -1,0 +1,21 @@
+# Bills of materials
+
+|#|REF|---|
+|-:|-|-|
+|1|U1|Atmel ATmega32U4|
+|2|U2|Nexperia PRTR5V0U2X|
+|3|Y1|EPSON FA-238 16MHz|
+|4|J1|GCT USB4085-GF-A|
+|5|J2|Molex 43860001|
+|6|D0|ROHM RB160M-30TR|  
+|7|F1|500mA|
+|8|SW0|5.2mm tact switch|
+|9|R1,R2|22Ω 1608|
+|10|R3,R4|5.1kΩ 1608|
+|11|R5,R6|10kΩ 1608|
+|12|R7,R8|22kΩ 1608|
+|13|C1,C2|22pF 1608|
+|14|C3|1uF 1608|
+|15|C4|10uF 1608|
+|16|C5,C6,C7,C8|0.1uF 1608|
+|17|D*|Diodes Inc 1N4148W|
