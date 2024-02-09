@@ -1,6 +1,6 @@
 # Acperience70 spec_02
 
-![spec_02](/images/main_image2.png)
+![spec_02](/images/main_image2.jpg)
 
 - [ビルドガイド](/docs/spec_02/buildguide_jp.md)
 
@@ -8,6 +8,6 @@
 
 # Acperience70 spec_01
 
-![spec_01](/images/main_image.png)
+![spec_01](/images/main_image.jpg)
 
-- [Bills of materials](/docs/bom.md)
+- [BOM](/docs/spec_01/bom.md)
